@@ -1,0 +1,11 @@
+# TODO - 3M Bike Shop
+
+## Missing Data to Fill In
+- Address: [FILL IN ADDRESS]
+- Rating: [FILL IN RATING]
+- Review Count: [FILL IN REVIEW COUNT]
+
+## Notes
+- Google Maps page is JavaScript-rendered, could not extract business details
+- Used data from Facebook search results for phone
+- Images downloaded from Unsplash as fallback
